@@ -108,7 +108,7 @@ git:
   # Username to use as git committer
   user: "Weave Flux"
   # Email to use as git committer
-  email: "support@weave.works"
+  email: ""
   # If set, commits will be signed with this GPG key.
   signingKey: ""
   # If set, the signatures of the sync tag and commits will be verified.
