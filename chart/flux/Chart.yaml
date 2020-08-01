@@ -13,4 +13,4 @@ maintainers:
 engine: gotpl
 icon: https://raw.githubusercontent.com/fluxcd/flux/master/docs/_files/weave-flux.png
 keywords:
-  - gitops
+  - gitops+2
